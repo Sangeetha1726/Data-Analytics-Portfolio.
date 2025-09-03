@@ -1,3 +1,5 @@
+# Data-Analytics-Portfolio.
+
 # 🕵️ Credit Card Fraud Analysis (Python + SQL Server)
 
 A small analytics project that reads transactions from **SQL Server**, calculates fraud metrics, and generates charts with **Matplotlib**.
@@ -17,4 +19,4 @@ Python (pandas, numpy, matplotlib, sqlalchemy, pyodbc) + SQL Server
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-# Data-Analytics-Portfolio.
+
