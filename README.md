@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio.
 
-# 🕵️ Credit Card Fraud Analysis (Python + SQL Server+Power BI)
+# 🕵️ Credit Card Fraud Analysis (Python + SQL Server+ Power BI)
 
 A small analytics project that reads transactions from **SQL Server**, calculates fraud metrics, and generates charts with **Matplotlib**.
 
