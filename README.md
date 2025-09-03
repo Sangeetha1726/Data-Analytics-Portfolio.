@@ -12,7 +12,7 @@ A small analytics project that reads transactions from **SQL Server**, calculate
 - Charts saved in `screenshots/`
 
 ## 🧰 Tech
-Python (pandas, numpy, matplotlib, sqlalchemy, pyodbc) + SQL Server
+Python (pandas, numpy, matplotlib, sqlalchemy, pyodbc) + SQL Server + Power BI
 
 ## 🚀 How to run
 1. Ensure an ODBC DSN exists (e.g., `sql server`) that points to your SQL Server.
